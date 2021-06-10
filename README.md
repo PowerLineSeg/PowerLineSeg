@@ -14,11 +14,11 @@ The Table below shows the data distribution of the dataset. First, we divide the
 |  | Tower | PowerLine | Insulator | Ground |
 | :------: | :------: | :------: | :------: | :------: |
 | Part-A train | 676k | 742k | 18k | 85710k |
-| Part-A val | 355 | 490 | 8 | 39081 |
-| Part-A test | 406 | 359 | 13 | 34174 |
-| Part-B train | 1389 | 1378 | 52 | 52177 |
-| Part-B val | 665 | 838 | 19 | 22366 |
-| Part-B test | 557 | 687 | 15 | 26309 |
+| Part-A val | 355k | 490k | 8k | 39081k |
+| Part-A test | 406k | 359k | 13k | 34174k |
+| Part-B train | 1389k | 1378k | 52k | 52177k |
+| Part-B val | 665k | 838k | 19k | 22366k |
+| Part-B test | 557k | 687k | 15k | 26309k |
 
 
 ## Download
