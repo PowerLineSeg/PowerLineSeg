@@ -8,7 +8,7 @@ PowerLineSeg is an airborne LiDAR dataset, in which each point has X, Y, Z, Inte
 As shown in this figure, this dataset includes four categories: Powerline, Tower, Insulator, and Ground. Ground points account for more than 96.7%. Actually, the content of ground points is quite rich, including vehicles, vegetation, buildings, highways, communication towers, etc. We are further enriching the annotations of this dataset.
 
 ## Statistics
-The Table below shows the data distribution of the dataset. First, we divide the data into two parts according to the terrain, and then each part is further divided into training set, validation set and test set according to the proportion.
+The table below shows the data distribution of the dataset. First, we divide the data into two parts according to the terrain, and then each part is further divided into the training set, validation set and test set according to the proportion.
 
 
 |  | Tower | PowerLine | Insulator | Ground |
