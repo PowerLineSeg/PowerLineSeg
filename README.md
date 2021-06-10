@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# PowerLineSeg Dataset
+## overview
+PowerLineSeg is an airborne LiDAR dataset, in which each point has X, Y, Z, Intensity, timestamp and label. It contains two parts. Part-A is mainly collected from mountains. Part-B is mainly collected from plains. This dataset is suitable for point cloud segmentation task. Especially, the domain adaptation task of point cloud segmentation. 
+## Download
 <!--
 **PowerLineSeg/PowerLineSeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
