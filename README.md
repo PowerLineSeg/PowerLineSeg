@@ -26,3 +26,6 @@ The link will first take you to a license agreement, and then to the data. [[ Do
 
 ## Citation
 To be continue.
+
+## Acknowledgements
+The file organization of this dataset is the same as that of [SemanticKITTI](http://www.semantic-kitti.org/) 
