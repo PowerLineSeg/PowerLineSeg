@@ -32,7 +32,6 @@ The file organization of this dataset is the same as that of [SemanticKITTI](htt
 
 ## Related Link
 [PointCAD](https://github.com/PowerLineSeg/PointCAD): Unsupervised domain adaptation method for Point Cloud semantic segmentation.
-
 [torch-points3d](https://github.com/nicolas-chaulet/torch-points3d): Framework for running common deep learning models for point cloud analysis tasks.
 
 
